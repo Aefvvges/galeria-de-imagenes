@@ -8,6 +8,7 @@ section{
     display: flex;
     width: 600px;
     height: 430px;
+    margin-left: 350px;
 }
 
 section img {
